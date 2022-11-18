@@ -32,11 +32,7 @@ h1 {
 .fa-twitter {
   color: #1da1f2;
 }
-p {
-  text-align: center;
-  font-weight: 300;
-  max-width: 500px;
-}
+
 
 @media only screen and (max-width: 690px) {
   #main_container {
