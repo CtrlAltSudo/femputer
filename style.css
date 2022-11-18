@@ -1,0 +1,56 @@
+* {
+  font-family: "Comfortaa", cursive;
+}
+body {
+  margin: 0;
+}
+#main_container {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  width: fit-content;
+  margin: 10rem auto 0 auto;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 0.2em;
+}
+h1 {
+  font-weight: 500;
+  color: #5d6063;
+  font-size: 2rem;
+}
+.container_1,
+.container_2 {
+  width: 20rem;
+  text-align: center;
+}
+.profile_img {
+  width: 15rem;
+}
+.fa-brands {
+  font-size: 2rem;
+}
+.fa-twitter {
+  color: #1da1f2;
+}
+p {
+  text-align: center;
+  font-weight: 300;
+  max-width: 500px;
+}
+
+@media only screen and (max-width: 690px) {
+  #main_container {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-weight: 300;
+    margin: 5rem 5rem 0 5rem;
+  }
+}
+@media only screen and (max-width: 690px) {
+  .container_1,
+  .container_2 {
+    width: auto;
+    max-width: 100%;
+  }
+}
