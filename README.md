@@ -1,5 +1,9 @@
-You can find this page at the url below. 
+#femputer! 
 
-That does not fempute! 
+This is a very simple page, for my domain Femputer. 
 
-test test test
+See the site live using the url below! 
+
+https://femputer.net/
+
+That does not Fempute! 
