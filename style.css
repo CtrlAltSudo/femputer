@@ -47,7 +47,6 @@ h2 {
 @media only screen and (max-width: 690px) {
   .container_1,
   .container_2 {
-    width: auto;
     max-width: 100%;
   }
 }
