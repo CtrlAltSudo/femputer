@@ -34,14 +34,12 @@ h2 {
   color: #1da1f2;
 }
 
-
 @media only screen and (max-width: 690px) {
   #main_container {
     flex-direction: column;
     justify-content: center;
     text-align: center;
     font-weight: 300;
-    margin: 10% 10% 0 10%;
   }
 }
 @media only screen and (max-width: 690px) {
